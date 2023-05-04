@@ -1,4 +1,5 @@
-![logo_ironhack_blue 7](![image](https://user-images.githubusercontent.com/25462600/236172955-4883c4d4-d49e-4962-bbc5-3b44f3c8aa33.png))
+![logo_ironhack_blue 7]
+![72-723192_png-file-white-success-icon-png](https://user-images.githubusercontent.com/25462600/236173429-928a19d1-da79-48e9-8d6c-6c150b611004.png)
 
 # LAB | Bootstrap Cloning Revera
 
@@ -230,6 +231,7 @@ Rent platform for video games from local owners.
 
 ### Git
 [Repository Link]
+
 
 [Deploy Link]
 
